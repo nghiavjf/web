@@ -1,0 +1,61 @@
+.thang {
+    display: flex;
+    justify-content: center;
+    background:#dddddd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    align-items: center;
+}
+.sum1 {
+    background: #62d354;
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 10px;
+    margin: 0 20px;
+}
+.sum-sp{
+    font-size: 25px;
+    font-weight: bold;
+}
+#chart {
+    padding-top: 10px;
+    width: 60%;
+    display: flex;
+    background:#fff;
+    border-radius: 5px;
+}
+.nam {
+    display: flex;
+    justify-content: center;
+    background:#dddddd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    align-items: center;
+}
+#chart1 {
+    padding-top: 10px;
+    width: 60%;
+    display: flex;
+    background:#fff;
+    border-radius: 5px;
+}
+
+
+.line-chart {
+    display: flex;
+    width: auto;
+    height: 2px;
+    background: #000;
+    margin: 10px 150px;
+}
+.sele_y {
+    background:#62d354;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
